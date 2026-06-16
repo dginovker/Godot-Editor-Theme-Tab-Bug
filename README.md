@@ -1,6 +1,6 @@
 Right now, there's no way for the icon of a plugin to update when the theme changes in Godot.
 
-Demo brrr
+Demo of the bug: https://github.com/dginovker/Godot-Editor-Theme-Tab-Bug/blob/master/bug-example.mp4
 
 ## Steps to reproduce
 
